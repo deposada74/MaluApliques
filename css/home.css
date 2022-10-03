@@ -1,0 +1,13 @@
+#head{
+    border: 2px solid;
+    width: auto;
+    height: 100px;
+}
+#nav{
+    border: 2px solid;
+    width: auto;
+    height: 40px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
